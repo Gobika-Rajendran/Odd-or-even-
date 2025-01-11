@@ -18,8 +18,11 @@ public class OddOrEven {
             System.out.println("The number " + number + " is odd.");
         }
 
-
         scanner.close();
     }
+
+OUTPUT:
+Enter a number: 19
+The number 19 is odd.
 }
 
